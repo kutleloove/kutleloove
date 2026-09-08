@@ -63,5 +63,7 @@ More detail on each: **[muratcuka.me](https://muratcuka.me)**
 ---
 
 <p align="center">
-  <a href="https://muratcuka.me">muratcuka.me</a>
+  <a href="https://muratcuka.me">muratcuka.me</a> ·
+  <a href="mailto:merhaba@muratcuka.me">merhaba@muratcuka.me</a> ·
+  <a href="https://www.linkedin.com/in/murat-%C3%A7uka-b920a9334">LinkedIn</a>
 </p>
