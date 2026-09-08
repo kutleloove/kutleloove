@@ -20,9 +20,9 @@ I run language models locally instead of calling them in the cloud.
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| **Novelhan** | Content platform where writers publish and readers follow their work | React · Expo · Express · MongoDB · Redis |
-| **BerberLink** | Appointment management for businesses, with SMS and push reminders | React · Expo · Express · MongoDB · Redis |
-| **Smoke Off** | Quit-smoking app with a management panel | Expo · Vite · TypeScript |
+| [**Novelhan**](https://github.com/kutleloove/novelhan) | Content platform where writers publish and readers follow their work | React · Expo · Express · MongoDB · Redis |
+| [**BerberLink**](https://github.com/kutleloove/berberlink-showcase) | Appointment management for businesses, with SMS and push reminders | React · Expo · Express · MongoDB · Redis |
+| [**Smoke Off**](https://github.com/kutleloove/smoke-off) | Quit-smoking app with a management panel | Expo · React Native · Vite · Supabase |
 | **HattEDA** | Concept: automating footprint and trace drawing in PCB design | — |
 
 More detail on each: **[muratcuka.me](https://muratcuka.me)**
