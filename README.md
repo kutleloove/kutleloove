@@ -23,7 +23,7 @@ I run language models locally instead of calling them in the cloud.
 | [**Novelhan**](https://github.com/kutleloove/novelhan) | Content platform where writers publish and readers follow their work | React · Expo · Express · MongoDB · Redis |
 | [**BerberLink**](https://github.com/kutleloove/berberlink-showcase) | Appointment management for businesses, with SMS and push reminders | React · Expo · Express · MongoDB · Redis |
 | [**Smoke Off**](https://github.com/kutleloove/smoke-off) | Quit-smoking app with a management panel | Expo · React Native · Vite · Supabase |
-| **HattEDA** | Concept: automating footprint and trace drawing in PCB design | — |
+| [**HattEDA**](https://github.com/kutleloove/HattEDA) | Open-source desktop EDA for schematic & simulation, PCB/CAD and CAM — early development, GPL-3.0 | C++20 · Qt 6 · CMake |
 
 More detail on each: **[muratcuka.me](https://muratcuka.me)**
 
@@ -41,6 +41,8 @@ More detail on each: **[muratcuka.me](https://muratcuka.me)**
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 **Hardware & AI** — PCB design (1–2 layer) · Proteus (ISIS / ARES) · circuit analysis
 · Ollama · gpt-oss · Qwen3 · Llama · Stable Diffusion
